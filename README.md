@@ -23,7 +23,7 @@ A desktop PDF editor built with Python, PyQt5 and PyMuPDF. Click on any text in 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/pdf-editor.git
+git clone https://github.com/HandofSeth/pdf_editor.git
 cd pdf-editor
 pip install -r requirements.txt
 ```
